@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning **React.js and Advanced React.js (hooks, context API)**
 - 💬 Ask me about **HTML, CSS, JavaScript, building responsive websites, React basics**
 - 📫 How to reach me **surayaafroze63@gmail.com**
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/surayaafroze63/projects](https://app.netlify.com/teams/surayaafroze63/projects)
 - ⚡ Fun fact **I love creating clean and beautiful UI designs that users enjoy.**
 
 
