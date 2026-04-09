@@ -41,8 +41,8 @@
 
 
 
-## 🛠️ Languages & Tools
 
+<h2 align="center"> Languages & Tools</h2>
 
 <p align="center "> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
@@ -59,7 +59,8 @@
 <hr/>
 
 
-## 📊 GitHub Stats
+
+<h2 align="center"> 📊 GitHub Stats</h2>
 <p align="center">
  
   <img src="https://streak-stats.demolab.com/?user=surayaafroze&theme=radical&hide_border=true&cache_seconds=86400" alt="surayaafroze's GitHub Streak" width="49%" />
