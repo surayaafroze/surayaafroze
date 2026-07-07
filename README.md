@@ -70,7 +70,7 @@
 <h2 align="center"> 📊 GitHub Stats</h2>
 <p align="center">
  
- <img src="https://streak-stats.demolab.com/?user=surayaafroze&theme=radical&hide_border=true&v=1" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=surayaafroze&theme=radical&hide_border=true&v=1" />
 
 </p>
 
