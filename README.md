@@ -19,7 +19,7 @@
 
 
 ## 📌 About Me
-I am a passionate MERN Stack and Frontend Web Developer dedicated to crafting highly responsive, user-friendly, and visually engaging web applications. With a solid foundation in JavaScript (ES6+), React, and Tailwind CSS, I focus on transforming creative layout designs into clean, standard-compliant code. I am constantly expanding my skillset to backend architecture and Next.js, aiming to build robust, scalable, and high-performance digital solutions.
+I am a passionate MERN Stack and Frontend Web Developer dedicated to crafting highly responsive, user-friendly, and visually engaging web applications. With a solid foundation in JavaScript (ES6+), React.js, Next.js, and MongoDB, I focus on transforming creative layout designs into clean, standards-compliant, and optimized MERN stack solutions. I am constantly refining my skills in full-stack architecture to build robust, scalable, and high-performance digital applications.
 
 ---
 
