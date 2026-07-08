@@ -2,6 +2,8 @@
   <img src="./github-header-banner.png" alt="Header Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Suraya Afroze 👋</h1>
+
 <h3 align="center">💻 MERN Stack Developer | Transforming complex ideas into interactive, responsive, and visually stunning web experiences. 🚀</h3>
 <div  align="center">
 <a  href="https://www.linkedin.com/in/suraya-afroze/"><img  src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"  alt="LinkedIn Badge"/></a>
