@@ -68,19 +68,19 @@
 <div  style="background-color:#f6f8fa; padding:15px; border-radius:20px;">  
   
 <pre>  
-const developerProfile = {  
-name: "Suraya Afroze",  
-identity: "Frontend Explorer ",  
-building: "Interactive & responsive web interfaces",  
-using: {  
-languages: ["HTML", "CSS", "JavaScript"],  
-framework: ["React", "Tailwind CSS"]  
-},  
-toolsICarry: ["Git", "GitHub", "Figma", "Netlify"],  
-currentMission: "Turning ideas into real-world web experiences",  
-growthMode: "Learning something new every day ",  
-funSide: "I enjoy designing and crafting creative UI "  
-};  
+const developer = {
+  name: "Suraya Afroze",
+  role: "MERN Stack Developer",
+  passion: "Building interactive, accessible & high-performance web applications",
+  techStack: {
+    frontend: ["React.js", "Next.js", "Tailwind CSS", "JavaScript (ES6+)"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    utilities: ["TypeScript", "Zod", "RESTful APIs"]
+  },
+  tools: ["Git", "GitHub", "Figma", "Vercel", "Netlify", "Postman"],
+  mission: "Transforming complex ideas into seamless user experiences",
+  philosophy: "Writing clean, standard-compliant, and dry code daily"
+};
 </pre>  
 </div>
 
