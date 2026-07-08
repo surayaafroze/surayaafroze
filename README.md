@@ -2,7 +2,7 @@
   <img src="./github-header-banner.png" alt="Header Banner" width="100%" />
 </p>
 
-<h3 align="center">Frontend Web Developer | Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS. Passionate about building responsive and user-friendly web applications.</h3>
+<h3 align="center">💻 MERN Stack Developer | Transforming complex ideas into interactive, responsive, and visually stunning web experiences. 🚀</h3>
 <div  align="center">
 <a  href="https://www.linkedin.com/in/suraya-afroze/"><img  src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"  alt="LinkedIn Badge"/></a>
 <a  href="https://github.com/surayaafroze"><img  src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"  alt="GitHub Badge"/></a>
