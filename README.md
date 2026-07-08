@@ -69,9 +69,7 @@
 
 <h2 align="center"> 📊 GitHub Stats</h2>
 <p align="center">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=surayaafroze&theme=radical&hide_border=true&cache_bust=123" />
-
+  <img src="https://streak-stats.demolab.com/?user=surayaafroze&theme=radical&hide_border=true&cache_seconds=86400" alt="surayaafroze's GitHub Streak" width="49%" />
 </p>
 
 <div  style="background-color:#f6f8fa; padding:15px; border-radius:20px;">  
