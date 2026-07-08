@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Suraya%20Afroze&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="./github-header-banner.png" alt="Header Banner" width="100%" />
+</p>
 
 <h3 align="center">Frontend Web Developer | Skilled in HTML, CSS, JavaScript, React, and Tailwind CSS. Passionate about building responsive and user-friendly web applications.</h3>
 <div  align="center">
