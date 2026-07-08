@@ -19,27 +19,20 @@
 
 
 ## 📌 About Me
-- 🔭 I’m currently working on Frontend Web Development projects
-- 🌱 I’m currently learning **React.js and Advanced React.js (hooks, context API)**
-- 💬 Ask me about **HTML, CSS, JavaScript, building responsive websites, React basics**
-- 📫 How to reach me **surayaafroze63@gmail.com**
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/surayaafroze63/projects](https://app.netlify.com/teams/surayaafroze63/projects)
-- ⚡ Fun fact **I love creating clean and beautiful UI designs that users enjoy.**
+- 🔭 **Current Focus:** Developing interactive, user-centric, and optimized web applications.
+- 🌱 **Learning & Growth:** Deep-diving into full-stack MERN development, backend architectures, and database optimizations.
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Tailwind CSS, and Responsive Web Design.
+- 📫 **Connect with me:** [surayaafroze63@gmail.com](mailto:surayaafroze63@gmail.com)
+- 👨‍💻 **Portfolio & Projects:** Explore my work on [Netlify](https://app.netlify.com/teams/surayaafroze63/projects)
+- ⚡ **Fun Fact:** I believe that writing clean, readable code is just as creative and important as crafting beautiful UI designs.
 
-
-<div  style="background-color:#f6f8fa; padding:15px; border-radius:20px;">  
-  
-<pre> 
 ## 🧠 Focus Areas
 
-- ⚡ Building modern web applications  
-- ⚛️ Deep dive into React (performance, patterns)  
-- 🧩 Creating reusable & scalable components  
-- 🧼 Writing clean, maintainable code  
-- 🧠 Strong problem-solving mindset 
-  </pre>  
-  
-</div>
+- 🚀 **Full-Stack MERN Development** — Building interactive, end-to-end web applications with Express, Node.js, and MongoDB.
+- ⚛️ **React Engineering** — Structuring state management, custom hooks, and context APIs for maximum performance.
+- 🧩 **Modular Components** — Creating highly reusable, clean, and scalable frontend UI components.
+- 🧼 **Clean Code Architecture** — Adhering to strict DRY principles, industry standards, and solid design patterns.
+- 🧠 **Analytical Problem Solving** — Designing secure routing, rigorous validation (Zod), and robust business logic.
 
 
 
